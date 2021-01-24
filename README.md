@@ -1,4 +1,4 @@
-# Philadelphia-Zoo-Capstone
+# Philadelphia Zoo sponsed Virtual Reality Elephant Exhibit
 
 # Introduction:
 
